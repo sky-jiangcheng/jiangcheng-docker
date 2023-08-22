@@ -1,4 +1,4 @@
-package com.skyjiangccheng.sdd.controller;
+package com.jiangcheng.practice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
