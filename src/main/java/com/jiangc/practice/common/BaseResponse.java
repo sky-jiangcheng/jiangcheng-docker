@@ -1,4 +1,4 @@
-package com.jiangcheng.practice.common;
+package com.jiangc.practice.common;
 
 import java.io.Serializable;
 
