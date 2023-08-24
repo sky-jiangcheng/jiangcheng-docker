@@ -1,4 +1,4 @@
-package com.jiangc.practice.heartbeat.core;
+package com.jiangc.practice.heartbeat;
 
 import java.io.IOException;
 import java.io.InputStream;
